@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='package_test_codesolid',
+    name='ptestcs',
     version='0.2',
     packages=find_packages(exclude=['tests*']),
     license='MIT',
