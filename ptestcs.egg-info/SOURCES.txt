@@ -1,9 +1,0 @@
-README.md
-setup.py
-myPackage/__init__.py
-myPackage/demo.py
-ptestcs.egg-info/PKG-INFO
-ptestcs.egg-info/SOURCES.txt
-ptestcs.egg-info/dependency_links.txt
-ptestcs.egg-info/requires.txt
-ptestcs.egg-info/top_level.txt
