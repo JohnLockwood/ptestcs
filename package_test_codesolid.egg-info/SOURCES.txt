@@ -1,0 +1,9 @@
+README.md
+setup.py
+myPackage/__init__.py
+myPackage/demo.py
+package_test_codesolid.egg-info/PKG-INFO
+package_test_codesolid.egg-info/SOURCES.txt
+package_test_codesolid.egg-info/dependency_links.txt
+package_test_codesolid.egg-info/requires.txt
+package_test_codesolid.egg-info/top_level.txt

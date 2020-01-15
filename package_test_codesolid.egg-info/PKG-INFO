@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: package-test-codesolid
+Version: 0.1
+Summary: An example python package
+Home-page: https://github.com/JohnLockwood/python-package-test
+Author: John Lockwood
+Author-email: john@codesolid.com
+License: MIT
+Description: # python-package-test
+        Demo python package for testing from pipenv, for example.  
+        
+Platform: UNKNOWN
