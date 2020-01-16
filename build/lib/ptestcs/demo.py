@@ -1,6 +1,8 @@
 import requests
+
 def readme():
-    url = "https://raw.githubusercontent.com/JohnLockwood/python-package-test/master/README.md"
+    '''Print our own project's readme using requests library as a demo'''
+    url = "https://raw.githubusercontent.com/JohnLockwood/ptestcs/master/README.md"
     r = requests.get(url)
     return r.text
 
