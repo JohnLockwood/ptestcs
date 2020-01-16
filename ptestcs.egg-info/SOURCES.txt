@@ -1,5 +1,7 @@
 README.md
 setup.py
+ptestcs/__init__.py
+ptestcs/demo.py
 ptestcs.egg-info/PKG-INFO
 ptestcs.egg-info/SOURCES.txt
 ptestcs.egg-info/dependency_links.txt
